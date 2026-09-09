@@ -5,9 +5,10 @@ This project processes a Formula Student camera video in two stages:
 1. **Cone Detection** — detects blue/white and yellow cones in the original camera view.
 2. **Bird's-Eye Representation** — transforms the detected cones into a bird's-eye view and generates the left/right boundaries and centerline.
 
-## Input Video
+## Video Used: Chalmers' Fastest Lap at Formula Student East 2022
 
-<video src="https://github.com/user-attachments/assets/1ebd5534-9de7-4479-be44-9533a3fd65df" controls width="800"></video>
+[<video src="https://github.com/user-attachments/assets/1ebd5534-9de7-4479-be44-9533a3fd65df" controls width="800"></video>
+](https://github.com/user-attachments/assets/2d3e6888-1fc9-4d0d-9971-49a56aefc816)
 
 ## Project Structure
 
